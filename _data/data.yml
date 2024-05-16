@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: CV_2024-05-13_Nourhene_Alaya.pdf #place a pdf file inside /assets/pdf/ folder and provide the name of the file below
 
     languages:
       title: Languages
