@@ -1,12 +1,11 @@
 ## Data scientist / ML Engineer
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have realised for academic, self-learning and hobby purposes. It also contains a description of my work experience, achievements, skills, and certificates.
-
+This portfolio and online CV repos is a compilation of some of my previous data science and data analysis projects, that I have realised for academic, self-learning and hobby purposes. It also contains a description of my work experience, achievements, skills, and certificates.
 This portfolio is updated on the regular basis. For more details, visit my [online CV](https://nalayadata.github.io/my-online-portfolio/)
 
 # Orbit
 
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> The theme used for this online CV and portfolio is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
 
 ## Credits
