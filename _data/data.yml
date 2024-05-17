@@ -73,7 +73,13 @@ education:
           To achieve this, we implemented a data transformation pipeline and developed various machine learning models. The findings were disseminated at prestigious national and international conferences.
           List of Publications (see my [dblp](https://dblp.org/pid/116/6377.html):
            - [Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners](https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1). ISWC (1) 2017: 3-19
-        keywords: Semantic Web, Reasoning, Data Science, Machine Learning, Feature Engineering, Regression/Classification, Scoring/Ranking Algorithms
+        keywords: 
+         - Semantic Web, Ontologies
+         - Data Science
+         - Machine Learning
+         - Feature Engineering
+         - Regression/Classification
+         - Scoring/Ranking Algorithms
       - degree: Computer Science Engineering
         university: University of Tunis El Manar, Tunisia
         time: 2006 - 2009
