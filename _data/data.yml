@@ -140,20 +140,10 @@ certifications:
           credentialurl: academy.visiplus.com
           credentialname: Visiplus
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-
+            Training program offering specialization in the field of management and digital marketing for promoting businesses in the digital era.
+            - Company Audit, Market Analysis, Entrepreneurship & Management, Project Planning & Management, KPIs & Dashboarding.
+            - Preparation for agile management of cross-functional teams, development of robust business plans, and planning of viable projects.
+            - Final Project: "Proposal for a repositioning strategy for a Startup dedicated to managing the online reputation of tourism professionals for better differentiation in the market."
 
 projects:
     title: Projects
