@@ -63,28 +63,22 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD Thesis in Computer Science with a Specialization in AI
+        university: University of Paris 8, Saint-Seine-Denis, France
+        time: 2012 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          This AI thesis lies at the intersection of two fields: Semantic Web and Machine Learning. 
+          The work aims to analyze and predict the empirical behavior of ontology reasoners within the context of real-world ontologies. 
+          The research led to the creation of ADSOR, a decision support system based on predictive models that assess the robustness of reasoners and the complexity of ontologies, while also enabling the extraction of complex ontology parts. 
+          To achieve this, we implemented a data transformation pipeline and developed various machine learning models. The findings were disseminated at prestigious national and international conferences.
+          List of Publications (see my [dblp](https://dblp.org/pid/116/6377.html):
+           - [Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners](https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1). ISWC (1) 2017: 3-19
+        keywords: Semantic Web, Reasoning, Data Science, Machine Learning, Feature Engineering, Regression/Classification, Scoring/Ranking Algorithms
+      - degree: Computer Science Engineering
+        university: University of Tunis El Manar, Tunisia
+        time: 2006 - 2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
