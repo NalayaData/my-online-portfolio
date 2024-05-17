@@ -45,6 +45,14 @@
         {{ graduation.details | markdownify }}
       </div><!--//details-->
       {% endif %}
+      {% if graduation.keywords %}
+      <div class="item">
+       <strong>Keywords:</strong>
+       {% for keyword in graduation.keywords %}
+        <span>{{ keyword }}</span>
+       {% endfor %}
+     </div><!--//keywords-->
+     {% endif %}
 
     </div><!--//item-->
     {% endfor %}
