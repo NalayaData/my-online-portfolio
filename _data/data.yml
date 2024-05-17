@@ -185,23 +185,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python, Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Sklearn, Pandas
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Keras, Tensorflow, Pytorch
+        level: 75%
 
-      - name: Ruby on Rails
+      - name: Seaborn, Matplotlib
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: FastAPI, Flask
+        level: 70%
+        
+      - name: ML Flow, AirFlow
         level: 60%
+
+      - name: JSF, JPA/Hibernate, Spring Boot
+        level: 80%
+        
+      - name: Oracle, PostgSQL, Elasticsearch, MongoDB
+        level: 70%
+        
+      - name: GCP, Vertex AI, BigQuery
+        level: 70%
+        
+      - name: Docker, Kubernets
+        level: 60%
+        
+      - name: SVN, Git, Maven
+        level: 70%
+
+        
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
