@@ -169,17 +169,16 @@ publications:
     papers:
       - title: Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners
         link: "https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1"
-        authors: Nourhène Alaya, Myriam Lamolle, Sadok Ben Yahia
-        conference: ISWC (1) 2017: 3-19
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Nourhene Alaya, Myriam Lamolle, Sadok Ben Yahia
+        conference: "International Semantic Web Conference, ISWC (1) 2017: 3-19"
+      - title: "RakSOR: Ranking of Ontology Reasoners Based on Predicted Performances"
+        link: "https://www.researchgate.net/publication/311559128_RakSOR_Ranking_of_Ontology_Reasoners_Based_on_Predicted_Performances"
+        authors: Nourhene Alaya, Myriam Lamolle, Sadok Ben Yahia
+        conference: "The 28th International Conference on Tools with Artificial Intelligence, ICTAI 2016: 1076-1083"
+      - title: "Predicting the Empirical Robustness of the Ontology Reasoners based on Machine Learning Techniques" 
+        link: "https://www.researchgate.net/publication/283892487_Predicting_the_Empirical_Robustness_of_the_Ontology_Reasoners_Based_on_Machine_Learning_Techniques"
+        authors: Nourhene Alaya, Myriam Lamolle, Sadok Ben Yahia
+        conference: "The 7th International Conference on Knowledge Engineering and Ontology Developement, KEOD'2015: 61-73"
 
 skills:
     title: Skills &amp; Proficiency
