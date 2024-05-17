@@ -132,13 +132,13 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Executive MBA "[Entrepreunership and management in the digital age]" (https://academy.visiplus.com/formation-diplomante-executive-mastere-management-strategies-entrepreneuriales)
+        - name: Executive MBA "[Entrepreunership and management in the digital age]" 
           start: 2023
           end:
           organization: Visiplus Academy
           credentialid:
-          credentialurl: academy.visiplus.com
-          credentialname: Visiplus
+          credentialurl: academy.visiplus.com/formation-diplomante-executive-mastere-management-strategies-entrepreneuriales
+          credentialname: visiplus-digital-learning
           details: |
             Training program offering specialization in the field of management and digital marketing for promoting businesses in the digital era.
             - Company Audit, Market Analysis, Entrepreneurship & Management, Project Planning & Management, KPIs & Dashboarding.
@@ -165,9 +165,10 @@ projects:
 publications:
     title: Publications
     intro: |
-      Under construction
+      This section showcases a selection of my scientific publications produced during my PhD research. 
+      More publications could be found at my [ResearchGate page](https://www.researchgate.net/profile/Nourhene-Alaya-2)
     papers:
-      - title: Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners
+      - title: "Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners"
         link: "https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1"
         authors: Nourhene Alaya, Myriam Lamolle, Sadok Ben Yahia
         conference: "International Semantic Web Conference, ISWC (1) 2017: 3-19"
