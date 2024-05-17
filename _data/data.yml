@@ -134,11 +134,11 @@ certifications:
       list:
         - name: MBA
           start: 2023
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end:
+          organization: Visiplus Academy
+          credentialid:
+          credentialurl: academy.visiplus.com
+          credentialname: Visiplus
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
