@@ -78,6 +78,10 @@ education:
          - Feature Engineering,
          - Regression/Classification,
          - Scoring/Ranking Algorithms
+      - degree : MSc in Computer Science and Data science
+        university: University of Tunis El Manar, Tunisia
+        time: 2010 - 2011
+        
       - degree: Bachelor's Degree in Computer Science Engineering
         university: University of Tunis El Manar, Tunisia
         time: 2006 - 2009
@@ -92,111 +96,68 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Confirmed ML Engineer
+        time: 2023 - Present
+        company: IDOS, Paris France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+         **Deeply Proejct: Online Reputation Management Application for Tourism Professionals**
+         - Participation in the project scoping phase and contribution to the platform design.
+         - Close collaboration with the executive team and business units.
+         - Expertise in data science: identifying data sources, defining key metrics for online reputation evaluation, specifying data analysis algorithms, including aspect-based sentiment analysis.
+         - Active development of key components of the solution.
+         **Tech Stack** : Stack technique : Python, SQL, Scrapping, Selenium, NLP, Sentiment Analysis, Hugging Face Transformers, FastAPI, Airflow, Pytest, ELK Stack, GCP, Docker, Kubernetes Git/Gitlab.
+      - role: Confirmed Data scientist
+        time: 2021 - 2022
+        company: IDOS, Paris, France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          **DATAMOTOR Project : Sales Forecasting and Pricing Optimization for a Physical Clothing Store**
+          - Collaborating with client teams to understand and articulate their needs.
+          - Collecting and cleaning data from multiple sources to ensure quality and consistency.
+          - Designing and developing Machine Learning models to forecast in-store sales and optimize pricing strategies.
+          - Deploying ML models into production and monitoring their performance.
+          **Tech Stack** : Python, SQL, Time Series, Pandas, Scikit-Learn, ARIMA, FB Prophet, XGBoost, Tensorflow Data Validation (TFDV), MLFlow, Airflow, FastAPI, Pytest, ELK Stack, PostgreSQL, GCP, Docker, Kubernetes, Git/Gitlab.
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Executive MBA "Entrepreneurship in the Digital Age"
+          start: 2023
+          end: 
+          organization: [Visiplus Academy](https://academy.visiplus.com/)
+          credentialid: 
+          credentialurl: https://www.visiplus-digital-learning.com/
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            
+        - name: Google Plateform Machine Learning Specialization
+          start: 2024
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Google training
+          credentialid: 
+          credentialurl: [certificate](https://coursera.org/share/c5600ab280792d2646739f6a8ad5dea2)
+          credentialname: Coursera
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This section is under construction
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Thesis project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
+        link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
+        tagline: under 
 
-      - title: DevStudio
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
