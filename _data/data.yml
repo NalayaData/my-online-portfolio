@@ -131,25 +131,18 @@ experiences:
         details: |
 
 certifications:
-      title: Certifications
-      list:
-        - name: Executive MBA Entrepreneurship in the Digital Age
-          start: 2023
-          end: 
-          organization: [Visiplus Academy](https://academy.visiplus.com/)
-          credentialid: 
-          credentialurl: [certificate](https://www.visiplus-digital-learning.com/)
-          credentialname: 
-          details: |
+    title: Certifications
+    list:
+     - name: Executive MBA Entrepreneurship in the Digital Age
+       start: 2023
+       end: 
+       organization: [Visiplus Academy](https://academy.visiplus.com/)
+       credentialid: 
+       credentialurl: [certificate](https://www.visiplus-digital-learning.com/)
+       credentialname: 
+       details: |
             
-        - name: Google Plateform Machine Learning Specialization
-          start: 2024
-          end:
-          organization: Google training
-          credentialid: 
-          credentialurl: [certificate](https://coursera.org/share/c5600ab280792d2646739f6a8ad5dea2)
-          credentialname: Coursera
-          details: |
+       
             
 
 projects:
