@@ -105,7 +105,7 @@ experiences:
          - Close collaboration with the executive team and business units.
          - Expertise in data science: identifying data sources, defining key metrics for online reputation evaluation, specifying data analysis algorithms, including aspect-based sentiment analysis.
          - Active development of key components of the solution.
-         **Tech Stack** : Stack technique : Python, SQL, Scrapping, Selenium, NLP, Sentiment Analysis, Hugging Face Transformers, FastAPI, Airflow, Pytest, ELK Stack, GCP, Docker, Kubernetes Git/Gitlab.
+         - **Tech Stack** : Stack technique : Python, SQL, Scrapping, Selenium, NLP, Sentiment Analysis, Hugging Face Transformers, FastAPI, Airflow, Pytest, ELK Stack, GCP, Docker, Kubernetes Git/Gitlab.
       - role: Confirmed Data scientist
         time: 2021 - 2022
         company: IDOS, Paris, France
@@ -115,7 +115,7 @@ experiences:
           - Collecting and cleaning data from multiple sources to ensure quality and consistency.
           - Designing and developing Machine Learning models to forecast in-store sales and optimize pricing strategies.
           - Deploying ML models into production and monitoring their performance.
-          **Tech Stack** : Python, SQL, Time Series, Pandas, Scikit-Learn, ARIMA, FB Prophet, XGBoost, Tensorflow Data Validation (TFDV), MLFlow, Airflow, FastAPI, Pytest, ELK Stack, PostgreSQL, GCP, Docker, Kubernetes, Git/Gitlab.
+          - **Tech Stack** : Python, SQL, Time Series, Pandas, Scikit-Learn, ARIMA, FB Prophet, XGBoost, Tensorflow Data Validation (TFDV), MLFlow, Airflow, FastAPI, Pytest, ELK Stack, PostgreSQL, GCP, Docker, Kubernetes, Git/Gitlab.
 
       - role: Data Project Manager
         time: 2019 - 2020
@@ -133,46 +133,14 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Executive MBA Entrepreneurship in the Digital Age
+          start: 2023
+          end: 
+          organization: [Visiplus Academy](https://academy.visiplus.com/)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-            
-       
-            
 
 projects:
     title: Projects
