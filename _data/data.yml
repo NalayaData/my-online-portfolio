@@ -132,7 +132,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Executive MBA "[Entrepreunership and management in the digital age]" 
+        - name: Executive MBA "Entrepreunership and management in the digital age" 
           start: 2023
           end:
           organization: Visiplus Academy
@@ -200,7 +200,7 @@ skills:
       - name: Seaborn, Matplotlib
         level: 85%
 
-      - name: FastAPI, Flask
+      - name: FastAPI, Flask, Streamlit
         level: 70%
         
       - name: ML Flow, AirFlow
@@ -215,7 +215,7 @@ skills:
       - name: GCP, Vertex AI, BigQuery
         level: 70%
         
-      - name: Docker, Kubernets
+      - name: Docker, Kubernetes
         level: 60%
         
       - name: SVN, Git, Maven
