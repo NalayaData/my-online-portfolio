@@ -132,7 +132,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: MBA
+        - name: Executive MBA "[Entrepreunership and management in the digital age]" (https://academy.visiplus.com/formation-diplomante-executive-mastere-management-strategies-entrepreneuriales)
           start: 2023
           end:
           organization: Visiplus Academy
@@ -148,7 +148,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      This section is under construction
+      **This section is under construction**
     assignments:
       - title: Thesis project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
