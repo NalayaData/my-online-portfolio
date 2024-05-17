@@ -117,11 +117,18 @@ experiences:
           - Deploying ML models into production and monitoring their performance.
           **Tech Stack** : Python, SQL, Time Series, Pandas, Scikit-Learn, ARIMA, FB Prophet, XGBoost, Tensorflow Data Validation (TFDV), MLFlow, Airflow, FastAPI, Pytest, ELK Stack, PostgreSQL, GCP, Docker, Kubernetes, Git/Gitlab.
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Data Project Manager
+        time: 2019 - 2020
+        company: INRIA Startup Studio, Paris, France
         details: |
-          
+      - role: R&D Artificial Intelligence Engineer
+        time: 2017 - 2019
+        company: INRIA Startup Studio, Paris, France
+        details: |
+      - role: Java /JEE Computer Science Engineer
+        time: 2009 - 2011
+        company: Cylande Africa, Tunis, Tunisia
+        details: |
 
 certifications:
       title: Certifications
