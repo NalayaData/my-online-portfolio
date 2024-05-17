@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nourhene Alaya
@@ -54,12 +54,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      With a PhD in AI and an Executive MBA in Digital Entrepreneurship, I offer a unique blend of technical expertise in data science and machine learning engineering, coupled with profound comprehension of business complexities and requirements. 
+      My experience spans data science, machine learning, and project management, with a focus on bridging business and technical teams. 
+      I thrive on collaborative efforts and have a proactive approach to problem-solving, ensuring project success.
 education:
     title: Education
     info:
@@ -74,18 +71,24 @@ education:
           List of Publications (see my [dblp](https://dblp.org/pid/116/6377.html):
            - [Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners](https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1). ISWC (1) 2017: 3-19
         keywords: 
-         - Semantic Web, Ontologies
-         - Data Science
-         - Machine Learning
-         - Feature Engineering
-         - Regression/Classification
+         - Semantic Web, 
+         - Ontologies,
+         - Data Science,
+         - Machine Learning,
+         - Feature Engineering,
+         - Regression/Classification,
          - Scoring/Ranking Algorithms
-      - degree: Computer Science Engineering
+      - degree: Bachelor's Degree in Computer Science Engineering
         university: University of Tunis El Manar, Tunisia
         time: 2006 - 2009
         details: |
-          
-
+          Design and implementation of a generic JEE application engine for the replication in XML of distributed databases.
+        keywords : 
+         - Java/JEE (JSF, Hibernate), 
+         - Databases (SQL, Oracle),
+         - Meta-models, 
+         - Eclipse Plugin Development,
+         - HTML/XML/CSS
 experiences:
     title: Experiences
     info:
