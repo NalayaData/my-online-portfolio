@@ -153,7 +153,7 @@ projects:
       - title: My PhD project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
         tagline:  
-      - title: Predicting Avocado prices using Facebook Prophet: univariiate vs multivariate solutions
+      - title: Predicting Avocado prices using Facebook Prophet, univariiate vs multivariate solution
         link: "#"
         tagline: 
       - title: Online store transactional data analysis, customer segmentation and sales prediction
