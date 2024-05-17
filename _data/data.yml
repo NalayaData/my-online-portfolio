@@ -150,24 +150,27 @@ projects:
     intro: >
       **This section is under construction**
     assignments:
-      - title: Thesis project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
+      - title: My PhD project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
-        tagline: under 
-
-      - title: 
+        tagline:  
+      - title: Predicting Avocado prices using Facebook Prophet: univariiate vs multivariate solutions
         link: "#"
         tagline: 
+      - title: Online store transactional data analysis, customer segmentation and sales prediction
+        link: "#"
+        tagline: 
+        
+
 
 publications:
     title: Publications
     intro: |
       Under construction
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
+      - title: Multi-label Based Learning for Better Multi-criteria Ranking of Ontology Reasoners
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-68288-4_1"
+        authors: Nourhène Alaya, Myriam Lamolle, Sadok Ben Yahia
+        conference: ISWC (1) 2017: 3-19
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
