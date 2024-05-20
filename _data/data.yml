@@ -152,7 +152,7 @@ projects:
     assignments:
       - title: "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
-        tagline: PhD thesis project: Designing a decision support system based on predictive models that assess the robustness of reasoners and the complexity of ontologies, while also enabling the extraction of complex ontology parts. 
+        tagline: PhD thesis project, Designing a decision support system based on predictive models that assess the robustness of reasoners and the complexity of ontologies, while also enabling the extraction of complex ontology parts. 
       - title: "Predicting Fuel efficiency using ML and Automate the Experimentation with MLFlow"
         link: "https://github.com/NalayaData/AutoMPG_ML_project"
         tagline: This project aims to explore and predict the fuel efficiency measured in miles per gallon (MPG) of various automobiles using machine learning techniques. 
