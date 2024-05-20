@@ -150,13 +150,13 @@ projects:
     intro: >
       **This section is under construction**
     assignments:
-      - title: My PhD project "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
+      - title: "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
-        tagline:  
+        tagline: PhD thesis project
+      - title: Predicting Fuel efficiency using ML and automate experiments using MLFLow
+        link: "https://github.com/NalayaData/AutoMPG_ML_project"
+        tagline: This project aims to explore and predict the fuel efficiency measured in miles per gallon (MPG) of various automobiles using machine learning techniques. 
       - title: Predicting Avocado prices using Facebook Prophet, univariiate vs multivariate solution
-        link: "#"
-        tagline: 
-      - title: Online store transactional data analysis, customer segmentation and sales prediction
         link: "#"
         tagline: 
         
