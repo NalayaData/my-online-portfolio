@@ -200,7 +200,7 @@ skills:
       - name: Seaborn, Matplotlib
         level: 85%
 
-      - name: FastAPI, Flask, Streamlit
+      - name: FastAI, Flask, Streamlit
         level: 70%
         
       - name: ML Flow, AirFlow
