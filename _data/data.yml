@@ -144,6 +144,23 @@ certifications:
             - Company Audit, Market Analysis, Entrepreneurship & Management, Project Planning & Management, KPIs & Dashboarding.
             - Preparation for agile management of cross-functional teams, development of robust business plans, and planning of viable projects.
             - Final Project: "Proposal for a repositioning strategy for a Startup dedicated to managing the online reputation of tourism professionals for better differentiation in the market."
+      list:
+        - name: Machine Learning on Google Cloud
+          start: 2024
+          end:
+          organization: Google Cloud Training
+          credentialid:
+          credentialurl: coursera.org/share/c5600ab280792d2646739f6a8ad5dea2
+          credentialname: Coursera
+          details: |
+            Real-world experimentation with end-to-end ML on Google Cloud. This specialization have teached me how to:
+            - build Vertex AI AutoML models without writing a single line of code; 
+            - build BigQuery ML models knowing basic SQL; 
+            - create Vertex AI custom training jobs that I deployed using containers using Docker; 
+            - use Feature Store for data management and governance; 
+            - use feature engineering for model improvement and determine the appropriate data preprocessing options for your use case;
+            - use Vertex Vizier hyperparameter tuning to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems,
+            - write distributed ML models that scale in TensorFlow and leverage best practices to implement machine learning on Google Cloud.
 
 projects:
     title: Projects
@@ -200,7 +217,7 @@ skills:
       - name: Seaborn, Matplotlib
         level: 85%
 
-      - name: FastAI, Flask, Streamlit
+      - name: FastAPI, Flask, Streamlit
         level: 70%
         
       - name: ML Flow, AirFlow
