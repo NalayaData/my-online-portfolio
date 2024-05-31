@@ -96,7 +96,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Confirmed ML Engineer
+      - role: Confirmed Data Scientist/ ML Engineer
         time: 2023 - Present
         company: IDOS, Paris France
         details: |
@@ -116,25 +116,32 @@ experiences:
           - Designing and developing Machine Learning models to forecast in-store sales and optimize pricing strategies.
           - Deploying ML models into production and monitoring their performance.
           - **Tech Stack** : Python, SQL, Time Series, Pandas, Scikit-Learn, ARIMA, FB Prophet, XGBoost, Tensorflow Data Validation (TFDV), MLFlow, Airflow, FastAPI, Pytest, ELK Stack, PostgreSQL, GCP, Docker, Kubernetes, Git/Gitlab.
-
       - role: Data Project Manager
         time: 2019 - 2020
         company: INRIA Startup Studio, Paris, France
         details: |
-        
-        
+         **Co-founder of a deep tech startup named "Closanet"**
+         - Closanet offers advanced recommendations based on image and language processing for online shopping.
+         - Designing the IT infrastructure and modeling the data pipeline.
+         - Writting functional specifications and product backlogs.
+         - Developing an image processing module for fashion trend analysis.
+         - Managing a team of three people and completed a POC.
+         - **Tech Stack** : Python, Java, Visual Computing, NLP, Keras, PyTorch, Selenium, Spring Boot, Postgresql, Elasticsearch, Heroku, Git. Agility, Scrum, Kanban, Trello
       - role: R&D Artificial Intelligence Engineer
         time: 2017 - 2019
         company: INRIA Startup Studio, Paris, France
         details: |
-         - **[Projet PICS](https://www.e-citiz.com/pics): Personal Information Controller Service**
+         **[PICS Project](https://www.e-citiz.com/pics): Personal Information Controller Service**
          - Design and development of a personal data search module on the web, powered by a privacy risk score.
          - Completion of the POC, mockup modeling, experimental validation, server configuration, solution deployment, and deliverables documentation.
-         - **Tech Stack** : Java, Python, Scrapping, Selenium, Apache TIKA, ETL, NLP, Privacy, Micro-services, Elasticsearch, MongoDB, NGINX, Balsamiq
+         - **Tech Stack** : Java, Python, Scrapping, Selenium, Apache TIKA, ETL, NLP, Privacy, Micro-services, Elasticsearch, Postgresql, NGINX, Balsamiq
       - role: Java /JEE Computer Science Engineer
         time: 2009 - 2011
         company: Cylande Africa, Tunis, Tunisia
         details: |
+         - Participated in the development of Cyprus ERP, a software designed for the retail industry to better manage retail stores
+         - **Tech Stack**: Java, SQL, JSF, Hibernate, Spring, Oracle, Maven, Git/SVM
+         
 certifications:
       title: Certifications
       list:
