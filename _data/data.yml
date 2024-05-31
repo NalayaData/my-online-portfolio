@@ -100,7 +100,7 @@ experiences:
         time: 2023 - Present
         company: IDOS, Paris France
         details: |
-         **Deeply Proejct: Online Reputation Management Application for Tourism Professionals**
+         **[Deeply Project](https://landpage.deeply.network/): Online Reputation Management Application for Tourism Professionals**
          - Participation in the project scoping phase and contribution to the platform design.
          - Close collaboration with the executive team and business units.
          - Expertise in data science: identifying data sources, defining key metrics for online reputation evaluation, specifying data analysis algorithms, including aspect-based sentiment analysis.
@@ -110,7 +110,7 @@ experiences:
         time: 2021 - 2022
         company: IDOS, Paris, France
         details: |
-          **DATAMOTOR Project : Sales Forecasting and Pricing Optimization for a Physical Clothing Store**
+          **[DATAMOTOR Project](https://datamotor.ai/en/home/) : Sales Forecasting and Pricing Optimization for a Physical Clothing Store**
           - Collaborating with client teams to understand and articulate their needs.
           - Collecting and cleaning data from multiple sources to ensure quality and consistency.
           - Designing and developing Machine Learning models to forecast in-store sales and optimize pricing strategies.
@@ -121,10 +121,16 @@ experiences:
         time: 2019 - 2020
         company: INRIA Startup Studio, Paris, France
         details: |
+        
+        
       - role: R&D Artificial Intelligence Engineer
         time: 2017 - 2019
         company: INRIA Startup Studio, Paris, France
         details: |
+         - **[Projet PICS](https://www.e-citiz.com/pics): Personal Information Controller Service**
+         - Design and development of a personal data search module on the web, powered by a privacy risk score.
+         - Completion of the POC, mockup modeling, experimental validation, server configuration, solution deployment, and deliverables documentation.
+         - **Tech Stack** : Java, Python, Scrapping, Selenium, Apache TIKA, ETL, NLP, Privacy, Micro-services, Elasticsearch, MongoDB, NGINX, Balsamiq
       - role: Java /JEE Computer Science Engineer
         time: 2009 - 2011
         company: Cylande Africa, Tunis, Tunisia
@@ -144,7 +150,6 @@ certifications:
             - Company Audit, Market Analysis, Entrepreneurship & Management, Project Planning & Management, KPIs & Dashboarding.
             - Preparation for agile management of cross-functional teams, development of robust business plans, and planning of viable projects.
             - Final Project: "Proposal for a repositioning strategy for a Startup dedicated to managing the online reputation of tourism professionals for better differentiation in the market."
-      list:
         - name: Machine Learning on Google Cloud
           start: 2024
           end:
@@ -160,7 +165,17 @@ certifications:
             - use Feature Store for data management and governance; 
             - use feature engineering for model improvement and determine the appropriate data preprocessing options for your use case;
             - use Vertex Vizier hyperparameter tuning to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems,
-            - write distributed ML models that scale in TensorFlow and leverage best practices to implement machine learning on Google Cloud.
+            - use Vertex AI prediction and model monitoring services to help manage the performance of our ML models.
+        - name : Apache Spark (TM) SQL for Data Analysts
+          start: 2023
+          end:
+          organization: Databricks
+          credentialid:
+          credentialurl: coursera.org/share/8a81bdce26803b1c5c8be2f577ad6d93
+          credentialname: Coursera
+          details: |
+           I learnt how to use Spark SQL and Delta Lake to ingest, transform, and query data to extract valuable insights that can be shared with my team.
+        
 
 projects:
     title: Projects
