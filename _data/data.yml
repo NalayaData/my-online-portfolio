@@ -187,17 +187,21 @@ certifications:
 projects:
     title: Projects
     intro: >
-      **This section is under construction**
+     This is some of my personal and professional projects. Some of them are hosted on Github and are publically accessible.
+     **This section is under construction**
     assignments:
       - title: "Managing the Empirical Hardness of the Ontology Reasoning Using the Predictive Modelling"
         link: "https://books.google.fr/books/about/Managing_the_Empirical_Hardness_of_the_O.html?id=nBwf0AEACAAJ&redir_esc=y"
         tagline: PhD thesis project, Designing a decision support system based on predictive models that assess the robustness of reasoners and the complexity of ontologies, while also enabling the extraction of complex ontology parts. 
       - title: "Predicting Fuel efficiency using ML and Automate the Experimentation with MLFlow"
         link: "https://github.com/NalayaData/AutoMPG_ML_project"
-        tagline: This project aims to explore and predict the fuel efficiency measured in miles per gallon (MPG) of various automobiles using machine learning techniques. 
+        tagline: This project aims to explore and predict the fuel efficiency measured in miles per gallon (MPG) of various automobiles using machine learning techniques. We compared different preprocessing and learning techniques using  Scikit-learn, Keras, MLFlow.
+      - title: "Customers Segmentation Classification Challenge"
+        link: "https://github.com/NalayaData/CustomerSegmentationClassification.git"
+        tagline: In this project, we explore the data, define the machine learning problem, and provide a solution to classify customers into existing segments. Additionally, we propose a model for re-segmenting customers using K-means. The computed clusters are explained using Shap. 
       - title: Predicting Avocado prices using Facebook Prophet, univariiate vs multivariate solution
         link: "#"
-        tagline: 
+        tagline: upcoming
         
 
 
@@ -225,13 +229,13 @@ skills:
 
     toolset:
       - name: Python, Java
-        level: 98%
+        level: 95%
 
       - name: SQL
         level: 90%
 
-      - name: Sklearn, Pandas
-        level: 90%
+      - name: Scikit-learn, Pandas, Numpy, Scipy
+        level: 95%
 
       - name: Keras, Tensorflow, Pytorch
         level: 75%
@@ -242,7 +246,7 @@ skills:
       - name: FastAPI, Flask, Streamlit
         level: 70%
         
-      - name: ML Flow, AirFlow
+      - name: MLFlow, AirFlow
         level: 60%
 
       - name: JSF, JPA/Hibernate, Spring Boot
