@@ -199,9 +199,9 @@ projects:
       - title: "Customers Segmentation Classification Challenge"
         link: "https://github.com/NalayaData/CustomerSegmentationClassification.git"
         tagline: In this project, we explore the data, define the machine learning problem, and provide a solution to classify customers into existing segments. Additionally, we propose a model for re-segmenting customers using K-means. The computed clusters are explained using Shap. 
-      - title: Predicting Avocado prices using Facebook Prophet, univariiate vs multivariate solution
-        link: "#"
-        tagline: upcoming
+      - title: Avocado prices forcasting using Facebook Prophet, univariate vs multivariate solution
+        link: "https://github.com/NalayaData/AvocadoPricesPrediction.git"
+        tagline: In project, we explore the data and develop a predictive model for forecasting future avocado prices in the US using historical time series data. Leveraging the Facebook Prophet algorithm, the project will explore both univariate and multivariate approaches to enhance prediction accuracy with multiple explanatory variables.
         
 
 
